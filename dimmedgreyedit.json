@@ -26,14 +26,14 @@
         "TEXT_NORMAL": ["#D7D7D7"]
     },
     "rawColors": {
-        "BRAND_260": "#D7D7D7",
-        "BRAND_360": "#D7D7D7",
+        "BRAND_260": "#9b9b9b",
+        "BRAND_360": "#9b9b9b",
         "BRAND_500": "#757575",
-        "BRAND_560": "#D7D7D7",
-        "PRIMARY_400": "#D7D7D7",
+        "BRAND_560": "#9b9b9b",
+        "PRIMARY_400": "#9b9b9b",
         "PRIMARY_600": "#2a2a2a",
         "PRIMARY_660": "#2a2a2a",
-        "RED_400": "#D7D7D7",
+        "RED_400": "#9b9b9b",
         "YELLOW_300": "#757575"
     },
     "background": {
