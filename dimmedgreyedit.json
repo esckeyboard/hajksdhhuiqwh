@@ -30,7 +30,7 @@
             "#dfe4eb"
         ],
         "INTERACTIVE_MUTED": [
-            "#31353a"
+            "#3A3631"
         ],
         "BACKGROUND_PRIMARY": [
             "#11151a"
@@ -45,10 +45,10 @@
             "#11151a"
         ],
         "BACKGROUND_ACCENT": [
-            "#31353a"
+            "#3A3631"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#31353a"
+            "#3A3631"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#11151a"
@@ -57,19 +57,19 @@
             "#11151a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#31353a"
+            "#3A3631"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#11151a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#31353a"
+            "#3A3631"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#31353a"
+            "#3A3631"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#31353a"
+            "#3A3631"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#4e5359"
@@ -78,7 +78,7 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#31353a"
+            "#3A3631"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#11151a"
@@ -105,16 +105,16 @@
             "#11151a"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#31353a"
+            "#3A3631"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#31353a"
+            "#3A3631"
         ],
         "BACKGROUND_MENTIONED": [
-            "#31353a80"
+            "#3A363180"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#31353abf"
+            "#3A3631bf"
         ],
         "LOGO_PRIMARY": [
             "#ced3da"
@@ -131,17 +131,17 @@
         "PRIMARY_200": "#dfe4eb",
         "PRIMARY_300": "#dfe4eb",
         "PRIMARY_360": "#4e5359",
-        "PRIMARY_400": "#31353a",
-        "PRIMARY_500": "#31353a",
+        "PRIMARY_400": "#3A3631",
+        "PRIMARY_500": "#3A3631",
         "PRIMARY_600": "#11151a",
         "PRIMARY_630": "#11151a",
         "PRIMARY_660": "#11151a",
         "PRIMARY_700": "#11151a",
         "PRIMARY_800": "#11151a",
         "BLACK_500": "#11151a73",
-        "BRAND_260": "#31353a",
+        "BRAND_260": "#3A3631",
         "BRAND_360": "#f3f8ff",
-        "BRAND_500": "#31353a",
+        "BRAND_500": "#3A3631",
         "BRAND_560": "#4e5359",
         "YELLOW_300": "#dfe4eb",
         "GREEN_600": "#dfe4eb",
