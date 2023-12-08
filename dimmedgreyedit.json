@@ -1,5 +1,5 @@
 {
-    "name": "BlueDarkMono",
+    "name": "DarkMono",
     "description": "Darkened Theme with a slight hint of blue and monotone. And seamless",
     "authors": [
         {
@@ -9,40 +9,40 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#dfe4eb"
+            "#EBE6DF"
         ],
         "HEADER_SECONDARY": [
-            "#ced3da"
+            "#DAD5CE"
         ],
         "TEXT_NORMAL": [
-            "#dfe4eb"
+            "#EBE6DF"
         ],
         "TEXT_MUTED": [
-            "#61666c"
+            "#6C6761"
         ],
         "INTERACTIVE_NORMAL": [
-            "#4e5359"
+            "#59544E"
         ],
         "INTERACTIVE_HOVER": [
-            "#4e5359"
+            "#59544E"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#dfe4eb"
+            "#EBE6DF"
         ],
         "INTERACTIVE_MUTED": [
             "#3A3631"
         ],
         "BACKGROUND_PRIMARY": [
-            "#11151a"
+            "#1A1611"
         ],
         "BACKGROUND_SECONDARY": [
-            "#11151a"
+            "#1A1611"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#11151a"
+            "#1A1611"
         ],
         "BACKGROUND_TERTIARY": [
-            "#11151a"
+            "#1A1611"
         ],
         "BACKGROUND_ACCENT": [
             "#3A3631"
@@ -51,16 +51,16 @@
             "#3A3631"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#11151a"
+            "#1A1611"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#11151a"
+            "#1A1611"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#3A3631"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#11151a"
+            "#1A1611"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#3A3631"
@@ -72,7 +72,7 @@
             "#3A3631"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#4e5359"
+            "#59544E"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -81,28 +81,28 @@
             "#3A3631"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#11151a"
+            "#1A1611"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#11151a"
+            "#1A1611"
         ],
         "CHANNELS_DEFAULT": [
-            "#4e5359"
+            "#59544E"
         ],
         "TEXT_LINK": [
-            "#ced3da"
+            "#DAD5CE"
         ],
         "TEXT_DANGER": [
-            "#ced3da"
+            "#DAD5CE"
         ],
         "KEYBOARD": [
-            "#11151a"
+            "#1A1611"
         ],
         "CHANNEL_ICON": [
-            "#4e5359"
+            "#59544E"
         ],
         "CHAT_BACKGROUND": [
-            "#11151a"
+            "#1A1611"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#3A3631"
@@ -117,38 +117,38 @@
             "#3A3631bf"
         ],
         "LOGO_PRIMARY": [
-            "#ced3da"
+            "#DAD5CE"
         ],
         "MENTION_BACKGROUND": [
-            "#dfe4eb80"
+            "#EBE6DF80"
         ],
         "MENTION_FOREGROUND": [
-            "#dfe4eb"
+            "#EBE6DF"
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#ebf0f7",
-        "PRIMARY_200": "#dfe4eb",
-        "PRIMARY_300": "#dfe4eb",
-        "PRIMARY_360": "#4e5359",
+        "PRIMARY_100": "#F7F2EB",
+        "PRIMARY_200": "#EBE6DF",
+        "PRIMARY_300": "#EBE6DF",
+        "PRIMARY_360": "#59544E",
         "PRIMARY_400": "#3A3631",
         "PRIMARY_500": "#3A3631",
-        "PRIMARY_600": "#11151a",
-        "PRIMARY_630": "#11151a",
-        "PRIMARY_660": "#11151a",
-        "PRIMARY_700": "#11151a",
-        "PRIMARY_800": "#11151a",
-        "BLACK_500": "#11151a73",
+        "PRIMARY_600": "#1A1611",
+        "PRIMARY_630": "#1A1611",
+        "PRIMARY_660": "#1A1611",
+        "PRIMARY_700": "#1A1611",
+        "PRIMARY_800": "#1A1611",
+        "BLACK_500": "#1A161173",
         "BRAND_260": "#3A3631",
         "BRAND_360": "#f3f8ff",
         "BRAND_500": "#3A3631",
-        "BRAND_560": "#4e5359",
-        "YELLOW_300": "#dfe4eb",
-        "GREEN_600": "#dfe4eb",
-        "RED_345": "#dfe4eb",
-        "RED_400": "#4e5359",
-        "WHITE_500": "#ebf0f7",
-        "GREEN_360": "#dfe4eb"
+        "BRAND_560": "#59544E",
+        "YELLOW_300": "#EBE6DF",
+        "GREEN_600": "#EBE6DF",
+        "RED_345": "#EBE6DF",
+        "RED_400": "#59544E",
+        "WHITE_500": "#F7F2EB",
+        "GREEN_360": "#EBE6DF"
     },
     "spec": 2
 }
