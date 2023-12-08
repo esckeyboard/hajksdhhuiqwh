@@ -1,154 +1,123 @@
 {
-    "name": "DarkMono",
-    "description": "Darkened Theme with a slight hint of blue and monotone. And seamless",
+    "name": "Amoled Orange",
+    "description": "A Amoled version of Orange Mountains theme. DARK MODE REQUIRED!",
     "authors": [
         {
-            "name": "panniku (edit by esc)",
-            "id": "703634705152606318"
+            "name": "EscKeyboard (original by Wizzy)",
+            "id": "715443625580036128"
         }
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#EBE6DF"
+            "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#DAD5CE"
+            "#ed6a19"
         ],
         "TEXT_NORMAL": [
-            "#EBE6DF"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#6C6761"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#59544E"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#59544E"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#EBE6DF"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#3A3631"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#1A1611"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#1A1611"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#1A1611"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#1A1611"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#3A3631"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#3A3631"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#1A1611"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#1A1611"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#3A3631"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#1A1611"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3A3631"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#3A3631"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#3A3631"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#59544E"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#3A3631"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#1A1611"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#1A1611"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#59544E"
+            "#ed6a19"
         ],
         "TEXT_LINK": [
-            "#DAD5CE"
+            "#ed6a19"
         ],
         "TEXT_DANGER": [
-            "#DAD5CE"
+            "#ed6a19"
         ],
-        "KEYBOARD": [
-            "#1A1611"
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
         ],
-        "CHANNEL_ICON": [
-            "#59544E"
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
         ],
-        "CHAT_BACKGROUND": [
-            "#1A1611"
+        "INTERACTIVE_MUTED": [
+            "#808080"
         ],
-        "SPOILER_HIDDEN_BACKGROUND": [
-            "#3A3631"
+        "BACKGROUND_PRIMARY": [
+            "#000000"
         ],
-        "SPOILER_REVEALED_BACKGROUND": [
-            "#3A3631"
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#ed6a19"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#3A363180"
+            "#e6ed6a19"
         ],
-        "BACKGROUND_MENTIONED_HOVER": [
-            "#3A3631bf"
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#000000"
         ],
-        "LOGO_PRIMARY": [
-            "#DAD5CE"
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ed6a19"
         ],
-        "MENTION_BACKGROUND": [
-            "#EBE6DF80"
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000"
         ],
-        "MENTION_FOREGROUND": [
-            "#EBE6DF"
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#000000"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c4c4c4"
+        ],
+        "TEXT_LINK": [
+            "#ed6a19"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#F7F2EB",
-        "PRIMARY_200": "#EBE6DF",
-        "PRIMARY_300": "#EBE6DF",
-        "PRIMARY_360": "#59544E",
-        "PRIMARY_400": "#3A3631",
-        "PRIMARY_500": "#3A3631",
-        "PRIMARY_600": "#1A1611",
-        "PRIMARY_630": "#1A1611",
-        "PRIMARY_660": "#1A1611",
-        "PRIMARY_700": "#1A1611",
-        "PRIMARY_800": "#1A1611",
-        "BLACK_500": "#1A161173",
-        "BRAND_260": "#3A3631",
-        "BRAND_360": "#f3f8ff",
-        "BRAND_500": "#3A3631",
-        "BRAND_560": "#59544E",
-        "YELLOW_300": "#EBE6DF",
-        "GREEN_600": "#EBE6DF",
-        "RED_345": "#EBE6DF",
-        "RED_400": "#59544E",
-        "WHITE_500": "#F7F2EB",
-        "GREEN_360": "#EBE6DF"
-    },
-    "spec": 2
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#ed6a19",
+        "PRIMARY_500": "#ed6a19",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#ed6a19",
+        "BRAND_360": "#ed6a19",
+        "BRAND_500": "#ed6a19",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#ed6a19",
+        "YELLOW_300": "#ed6a19",
+        "ORANGE_345": "#ed6a19",
+        "GREEN_345": "#ed6a19",
+        "GREEN_360": "#ed6a19",
+        "RED_560" : "#ed6a19",
+        "RED_400": "#ed6a19"
+    }
 }
