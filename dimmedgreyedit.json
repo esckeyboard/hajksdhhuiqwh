@@ -1,44 +1,127 @@
 {
-    "name": "最小限 Dimmed Greyish",
-    "description": "A theme made by Spicyu (editted by esc)",
+    "name": "OneColor",
+    "description": "A cool theme based on One Color.",
     "authors": [
         {
-            "name": "Spicyu",
-            "id": "833073003452825630"
+            "name": "Wizzy#0211 (edited by esc)",
+            "id": "715443625580036128"
         }
     ],
     "semanticColors": {
-        "BACKGROUND_ACCENT": ["#252525"],
-        "BACKGROUND_FLOATING": ["#252525"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#252525"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#252525"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#454545"],
-        "BACKGROUND_MODIFIER_HOVER": ["#252525"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#454545"],
-        "BACKGROUND_NESTED_FLOATING": ["#757575"],
-        "BACKGROUND_PRIMARY": ["#252525"],
-        "BACKGROUND_SECONDARY": ["#1f1f1f"],
-        "BACKGROUND_SECONDARY_ALT": ["#252525"],
-        "BACKGROUND_TERTIARY": ["#1f1f1f"],
-        "CHANNELTEXTAREA_BACKGROUND": ["#c9c9c9"],
-        "CHAT_BACKGROUND": ["#252525"],
-        "INTERACTIVE_NORMAL": ["#9b9b9b"],
-        "TEXT_NORMAL": ["#D7D7D7"]
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#53906E"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#53906E"
+        ],
+        "TEXT_LINK": [
+            "#53906E"
+        ],
+        "TEXT_DANGER": [
+            "#53906E"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#95d2b0"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#53906E"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1a1c1b"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#53906E"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#1a1c1b"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#1a1c1b"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1a1c1b"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#999999"
+        ],
+        "TEXT_LINK": [
+            "#53906E"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#1a1c1b"
+        ]
     },
     "rawColors": {
-        "BRAND_260": "#9b9b9b",
-        "BRAND_360": "#9b9b9b",
-        "BRAND_500": "#757575",
-        "BRAND_560": "#9b9b9b",
-        "PRIMARY_400": "#9b9b9b",
-        "PRIMARY_600": "#2a2a2a",
-        "PRIMARY_660": "#2a2a2a",
-        "RED_400": "#9b9b9b",
-        "YELLOW_300": "#757575"
-    },
-    "background": {
-        "blur": 0,
-        "alpha": 0.68
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#53906E",
+        "PRIMARY_500": "#53906E",
+        "PRIMARY_600": "#1a1c1b",
+        "PRIMARY_630": "#1a1c1b",
+        "PRIMARY_660": "#1a1c1b",
+        "PRIMARY_700": "#1a1c1b",
+        "PRIMARY_800": "#1a1c1b",
+        "BRAND_260": "#53906E",
+        "BRAND_360": "#53906E",
+        "BRAND_500": "#53906E",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#53906E",
+        "YELLOW_300": "#53906E",
+        "ORANGE_345": "#53906E",
+        "GREEN_345": "#53906E",
+        "GREEN_360": "#53906E",
+        "RED_560" : "#53906E",
+        "RED_400": "#53906E"
     },
     "spec": 2
 }
