@@ -10,10 +10,10 @@
     "spec": 2,
     "semanticColors": {
         "HEADER_PRIMRARY": [
-            "#FF00CC"
+            "#141414"
         ],
         "HEADER_SECONDARY": [
-            "#b6b6b6"
+            "#FF00CC"
         ],
         "INTERACTIVE_NORMAL": [
             "#c8c8c8"
@@ -46,7 +46,7 @@
             "#0c0c0c"
         ],
         "CHANNEL_ICON": [
-            "#b6b6b6"
+            "#FF00CC"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6c757d"
