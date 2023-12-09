@@ -10,7 +10,7 @@
     "spec": 2,
     "semanticColors": {
         "HEADER_PRIMRARY": [
-            "#CB00FF"
+            "#141414"
         ],
         "HEADER_SECONDARY": [
             "#39FF00"
@@ -46,10 +46,10 @@
             "#0c0c0c"
         ],
         "CHANNEL_ICON": [ 
-            "#b6b6b6"
+            "#39FF00"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#6c757d"
+            "#4FB832"
         ],
         "CHAT_BACKGROUND":[
             "#141414"
