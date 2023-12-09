@@ -45,8 +45,8 @@
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#0c0c0c"
         ],
-        "CHANNEL_ICON": [   // literal channel icon  # name_channel
-            "#FF00CC"
+        "CHANNEL_ICON": [ 
+            "#b6b6b6"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6c757d"
