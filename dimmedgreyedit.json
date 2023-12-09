@@ -13,7 +13,7 @@
             "#141414"
         ],
         "HEADER_SECONDARY": [
-            "#FF00CC"
+            "#39FF00"
         ],
         "INTERACTIVE_NORMAL": [
             "#c8c8c8"
@@ -45,7 +45,7 @@
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#0c0c0c"
         ],
-        "CHANNEL_ICON": [
+        "CHANNEL_ICON": [   // literal channel icon  # name_channel
             "#FF00CC"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
