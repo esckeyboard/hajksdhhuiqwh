@@ -22,7 +22,7 @@
             "#dcddde"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#4FB832"
+            "#dcddde"
         ],
         "INTERACTIVE_MUTED": [
             "#6c757d"
@@ -46,7 +46,7 @@
             "#0c0c0c"
         ],
         "CHANNEL_ICON": [ 
-            "#b6b6b6"
+            "#5BBF40"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6c757d"
